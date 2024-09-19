@@ -27,4 +27,4 @@ To execute the entire test suite in local development, use:
 
 To generate and view report locally, run `npm run report`. A typical cucumber report will look like this
 
-<img alt="Report" src="https://raw.githubusercontent.com/nazmulb/cucumber/master/images/report.png" width="900px" />
+<img alt="Report" src="https://github.com/MEsen1/BBCNSWApiTest/blob/main/images/report.png?raw=true" width="900px" />
