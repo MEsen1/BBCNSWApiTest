@@ -1,0 +1,17 @@
+{
+  "name": "bbcnewsapitest",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "cucumber-js",
+    "report": "open cucumber-report.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@cucumber/pretty-formatter": "^1.0.1",
+    "chai": "^5.1.1",
+    "supertest": "^7.0.0"
+  }
+}
